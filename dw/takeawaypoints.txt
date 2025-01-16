@@ -1,0 +1,26 @@
+frontend request backend
+backend perform task according to it
+
+c  create=post
+r   read=get
+u  update= patch/put  patch le euta garxa vane put le sabai ekkai tali garxa
+d   delete=delete
+
+how to request
+url
+method
+
+
+work of backend is to make api
+
+localhost:8000,post= hello i will add data to database
+localhost:8000,get= hello i will give you data
+
+localhost:8000,patch= hello i will update data in database
+
+localhost:8000,delete= hello i will delete data in database
+
+
+
+route
+use that route in index

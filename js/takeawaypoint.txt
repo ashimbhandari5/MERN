@@ -1,0 +1,45 @@
+Day 2
+    Js
+        single threaded
+        synchronous
+        blocking language
+    data
+        1,2,3.5 => number
+        "a", "ashim", "1", "true" => strinng
+        true , falese => boolean
+    variable
+            define variable
+            call variable
+    comment
+    operator
+    if -else
+    string
+Day 3
+    function
+        function define
+        function call
+        function execution
+        paas value
+        default value
+        return
+    function
+    without return  fun()
+    with return      let value=fun()
+
+
+   when to use map
+        input and output (both array)
+        and input and output length is same
+        [1,2,3]=[2,3,6]  (we can ue map)
+        [1,2,3]=[2,3,6,8]  (we can not use map) because ouput and input lengt does not macth
+        ["n","i","t","a","n"] => ["N","i","t","a","n"]  can use map an
+        "nitan" => ["N","i","t","a","n"]  can not use map
+         ["N","i","t","a","n"] =>"nitan  can not use map
+
+         when to use filter
+        input and outpu must be array 
+        is used to filter element 
+        ouput elemnt are from the input elemnet
+        [1,2,3]=>[1,2]  can use filter 
+        [1,2,3]=>[4,1] can not use filter 
+        "nitan"=>"nit" can not use filter
